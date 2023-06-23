@@ -1,19 +1,14 @@
 # Welcome to test-doc-gen
 
-This is an initial documentation to test mkdocs.
+This is an initial documentation to test documentation generation.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- Just
+- A
+- Test
 
-## Commands
+## New chapter
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Some content.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. Another
+2. Test
