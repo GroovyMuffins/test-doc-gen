@@ -1,14 +1,20 @@
-# Welcome to test-doc-gen
+---
+layout: default
+title: "Home"
+---
 
-This is an initial documentation to test documentation generation.
+# Table of Contents
+* TOC
+{:toc}
 
-- Just
-- A
-- Test
+# Welcome to My Site
 
-## New chapter
+This is the main page of my site.
 
-Some content.
+## First link
 
-1. Another
-2. Test
+First link info.
+
+## Second link
+
+Second link info.
